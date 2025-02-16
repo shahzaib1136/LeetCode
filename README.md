@@ -8,7 +8,7 @@ Passionate about **problem-solving, system design, and building scalable applica
 Currently enhancing **algorithmic skills for technical interviews** at top tech companies.  
 
 🔗 **GitHub:** [shahzaib1136](https://github.com/shahzaib1136)  
-🔗 **LinkedIn:** [https://www.linkedin.com/in/shahzaib87/] 
+🔗 **LinkedIn:** https://www.linkedin.com/in/shahzaib87/
 
 ## **📌 Purpose**  
 This repository is maintained to:  
